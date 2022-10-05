@@ -15,7 +15,5 @@ public class Film {
     private String name;
     private BigDecimal rating ;
 
-public void ssName(String s){
-    this.name=s;
-}
+
 }
